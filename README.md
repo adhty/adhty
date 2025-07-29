@@ -22,30 +22,30 @@
 ---
 
 ## 👀 Interests
-- 💻 Web Development using Laravel & Express.js
-- 📱 Mobile Apps with Flutter
-- 🎨 UI/UX & Microinteraction Design
+- 💻 Web Development using Laravel & Express.js  
+- 📱 Mobile Apps with Flutter  
+- 🎨 UI/UX & Microinteraction Design  
 - 🌐 Open Source & Developer Communities
 
 ---
 
 ## 🌱 Currently Learning
-- 🔧 Laravel API, Middleware, & Testing
-- 🎯 Flutter (Bloc, Provider, Clean Architecture)
+- 🔧 Laravel API, Middleware, & Testing  
+- 🎯 Flutter (Bloc, Provider, Clean Architecture)  
 - 🧠 SOLID Principles & Project Structure
 
 ---
 
 ## 📌 Featured Projects
-- 🎯 [Sistem Peminjaman Sarpras](https://github.com/adhty/sisfo-sarpras)
-- 📱 [Flutter Pengembalian App](https://github.com/adhty/flutter-pengembalian-app) *(contoh, ubah ke repo kamu yang asli)*
+- 🎯 [Sistem Peminjaman Sarpras](https://github.com/adhty/sisfo-sarpras)  
+- 📱 [Flutter Pengembalian App](https://github.com/adhty/flutter-pengembalian-app) *(contoh, ubah ke repo kamu yang asli)*  
 - 🛠️ [UI/UX Concept Design](https://github.com/adhty/uiux-prototype)
 
 ---
 
 ## 🤝 Let's Collaborate!
-- 📂 Open source apps
-- ⚙️ Backend APIs
+- 📂 Open source apps  
+- ⚙️ Backend APIs  
 - 🎮 Experimental dev projects & fun builds
 
 ---
@@ -66,20 +66,26 @@
 ---
 
 ## ⚡ Fun Fact
-> I debug faster after midnight 🌙  
-> Lo-fi = my fuel 🎧  
-> "Code, Sleep, Repeat."
+> 🌙 I debug faster after midnight  
+> 🎧 Lo-fi is my fuel  
+> 💡 Motto: **Code. Sleep. Repeat. Create. Inspire.**
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adhty&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adhty&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adhty&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adhty&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhty&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Happy+Coding!;Stay+Creative!;See+You+Around+👋" alt="Goodbye typing SVG" />
 </p>
 
 ---
