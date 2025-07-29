@@ -31,7 +31,7 @@
 ## 📫 Connect with Me
 <p align="left">
   <a href="mailto:adhtyafbrnsyh@gmail.com">
-    <img src="https://img.shields.io/badge/-adhty.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-adhtyafbrnsyh@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_adhityafebriansyah/">
     <img src="https://img.shields.io/badge/-@_adhityafebriansyah-purple?style=for-the-badge&logo=Instagram&logoColor=white" />
