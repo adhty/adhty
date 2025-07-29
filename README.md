@@ -25,28 +25,28 @@
 - 💻 Web Development using Laravel & Express.js  
 - 📱 Mobile Apps with Flutter  
 - 🎨 UI/UX & Microinteraction Design  
-- 🌐 Open Source & Developer Communities
+- 🌐 Open Source & Developer Communities  
 
 ---
 
 ## 🌱 Currently Learning
 - 🔧 Laravel API, Middleware, & Testing  
 - 🎯 Flutter (Bloc, Provider, Clean Architecture)  
-- 🧠 SOLID Principles & Project Structure
+- 🧠 SOLID Principles & Project Structure  
 
 ---
 
 ## 📌 Featured Projects
 - 🎯 [Sistem Peminjaman Sarpras](https://github.com/adhty/sisfo-sarpras)  
-- 📱 [Flutter Pengembalian App](https://github.com/adhty/flutter-pengembalian-app) *(contoh, ubah ke repo kamu yang asli)*  
-- 🛠️ [UI/UX Concept Design](https://github.com/adhty/uiux-prototype)
+- 📱 [Flutter Pengembalian App](https://github.com/adhty/flutter-pengembalian-app)  
+- 🛠️ [UI/UX Concept Design](https://github.com/adhty/uiux-prototype)  
 
 ---
 
 ## 🤝 Let's Collaborate!
 - 📂 Open source apps  
 - ⚙️ Backend APIs  
-- 🎮 Experimental dev projects & fun builds
+- 🎮 Experimental dev projects & fun builds  
 
 ---
 
@@ -68,7 +68,7 @@
 ## ⚡ Fun Fact
 > 🌙 I debug faster after midnight  
 > 🎧 Lo-fi is my fuel  
-> 💡 Motto: **Code. Sleep. Repeat. Create. Inspire.**
+> 💬 Motto: **Code. Sleep. Repeat. Create. Inspire.**
 
 ---
 
@@ -84,13 +84,21 @@
 
 ---
 
+### 🙏 Thanks for visiting!
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Happy+Coding!;Stay+Creative!;See+You+Around+👋" alt="Goodbye typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/V1JGeW_FtdwAAAAC/bye-bye-bye-milk-and-mocha.gif" width="150" alt="bye gif"/>
+</p>
+
 ---
 
-<!---
-adhty/adhty is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧠 Little Wisdom to Take With You:
+
+```shell
+# Stay hungry. Stay foolish.
+# Always ship before you’re ready.
+# Build with heart. Fix with purpose.
