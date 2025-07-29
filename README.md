@@ -4,31 +4,53 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=435&lines=Fullstack+Developer;Flutter+Enthusiast;Always+Learning+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+</p>
+
+---
+
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 ---
 
 ## 👀 Interests
-- 🚀 Web Development using **Laravel** & **Express.js**
-- 📱 Mobile Development with **Flutter**
+- 💻 Web Development using Laravel & Express.js
+- 📱 Mobile Apps with Flutter
 - 🎨 UI/UX & Microinteraction Design
-- 🌐 Open Source & Community Projects
+- 🌐 Open Source & Developer Communities
 
 ---
 
 ## 🌱 Currently Learning
-- 🧪 Laravel: API, Middleware, & Testing
-- ⚙️ Flutter: State Management (Bloc, Provider)
-- 🧠 Clean Code, SOLID Principles, & Architecture
+- 🔧 Laravel API, Middleware, & Testing
+- 🎯 Flutter (Bloc, Provider, Clean Architecture)
+- 🧠 SOLID Principles & Project Structure
 
 ---
 
-## 🤝 Collaboration
-- 🧑‍💻 Open-source projects (Web & Mobile)
-- 🧱 Side Projects or Hackathons
-- 💡 Creative, learning-oriented dev work
+## 📌 Featured Projects
+- 🎯 [Sistem Peminjaman Sarpras](https://github.com/adhty/sisfo-sarpras)
+- 📱 [Flutter Pengembalian App](https://github.com/adhty/flutter-pengembalian-app) *(contoh, ubah ke repo kamu yang asli)*
+- 🛠️ [UI/UX Concept Design](https://github.com/adhty/uiux-prototype)
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let's Collaborate!
+- 📂 Open source apps
+- ⚙️ Backend APIs
+- 🎮 Experimental dev projects & fun builds
+
+---
+
+## 📫 Reach Me
 <p align="left">
   <a href="mailto:adhtyafbrnsyh@gmail.com">
     <img src="https://img.shields.io/badge/-adhtyafbrnsyh@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -43,14 +65,10 @@
 
 ---
 
-## 😄 Pronouns
-**He / Him**
-
----
-
 ## ⚡ Fun Fact
-> I'm most productive when the world sleeps 🌙  
-> Bonus: Lo-fi + coding = magic 🎧
+> I debug faster after midnight 🌙  
+> Lo-fi = my fuel 🎧  
+> "Code, Sleep, Repeat."
 
 ---
 
@@ -58,6 +76,10 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adhty&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adhty&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhty&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
