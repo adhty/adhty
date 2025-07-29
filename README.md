@@ -30,8 +30,8 @@
 
 ### 📫 Reach Me On:
 [![Gmail Badge](https://img.shields.io/badge/-adhty.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:adhty.dev@gmail.com)
-[![Instagram Badge]([https://img.shields.io/badge/-@adhty-purple?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adhty](https://www.instagram.com/_adhityafebriansyah/))
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adhty) <!-- Optional -->
+[![Instagram Badge](https://img.shields.io/badge/-@_adhityafebriansyah-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_adhityafebriansyah/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adhty)
 
 ---
 
