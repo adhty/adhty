@@ -24,7 +24,6 @@
 ## 👀 Interests
 - 💻 Web Development using Laravel & Express.js  
 - 📱 Mobile Apps with Flutter  
-- 🎨 UI/UX & Microinteraction Design  
 - 🌐 Open Source & Developer Communities  
 
 ---
@@ -39,7 +38,7 @@
 ## 📌 Featured Projects
 - 🎯 [Sistem Peminjaman Sarpras](https://github.com/adhty/sisfo-sarpras)  
 - 📱 [Flutter Pengembalian App](https://github.com/adhty/flutter-pengembalian-app)  
-- 🛠️ [UI/UX Concept Design](https://github.com/adhty/uiux-prototype)  
+
 
 ---
 
